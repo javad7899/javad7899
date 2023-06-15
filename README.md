@@ -1,4 +1,4 @@
-# Hi there, I'm [Javad Hashemzadeh] 👋
+# Hi there, I'm Javad Hashemzadeh 👋
 
 I'm a frontend developer with experience in React and other modern web technologies. I love building beautiful and responsive user interfaces that provide great user experiences.
 

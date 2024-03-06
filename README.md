@@ -14,5 +14,5 @@ Overall, I am a dedicated developer who is always looking for new challenges and
 
 ## How to reach me
 
-You can reach me via email at [javadhashemzadeh78@gmail.com].
+You can reach me via email at javadhashemzadeh78@gmail.com.
 

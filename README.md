@@ -1,18 +1,69 @@
-# Hi there, I'm Javad Hashemzadeh 👋
+# Javad Hashemzadeh - Frontend Developer
 
-I'm a frontend developer with experience in React and other modern web technologies. I love building beautiful and responsive user interfaces that provide great user experiences.
+👋 Hi, I'm Javad Hashemzadeh, a passionate Frontend Developer with 2 years of experience in building dynamic and responsive web applications. My expertise lies in modern JavaScript frameworks and libraries, and I'm constantly learning and adapting to new technologies.
 
-## A summery of Me
+## 🚀 Skills
 
-I am a highly skilled React developer with extensive experience in building complex web applications. With a passion for creating intuitive and user-friendly interfaces, I am committed to delivering high-quality code that meets the needs of clients and end-users alike.
+- **Frontend Frameworks & Libraries:**
+  - Next.js
+  - React
+  - Redux
+  - React Query
+  - Zustand
 
-My expertise lies in developing scalable and maintainable applications using React, Redux, and other modern web technologies. I have a strong understanding of front-end development principles, including HTML, CSS, and JavaScript.
+- **Languages:**
+  - TypeScript
+  - JavaScript (ES6+)
+  - HTML5
+  - CSS3
 
-In addition to my technical skills, I am an excellent communicator who thrives in collaborative environments. I enjoy working closely with designers and other developers to ensure that projects are delivered on time and to the highest standards.
+- **Styling:**
+  - Tailwind CSS
+  - Bootstrap
+  - Material-UI
 
-Overall, I am a dedicated developer who is always looking for new challenges and opportunities to learn and grow.
+## 📫 Contact Me
 
-## How to reach me
+- **Email:** [javadhashemzadeh78@gmail.com](mailto:javadhashemzadeh78@gmail.com)
+- **LinkedIn:** [linkedin.com/in/javad-hashemzadeh](https://www.linkedin.com/in/javad-hashemzadeh/)
+- **GitHub:** [github.com/javad7899](https://github.com/javad7899)
+- **Telegram:** [t.me/javad_hshz](https://t.me/javad_hshz)
 
-You can reach me via email at javadhashemzadeh78@gmail.com.
+## 🛠 Tools & Technologies
 
+- **Version Control:** Git, GitHub
+- **Package Managers:** npm, yarn
+- **Build Tools:** Webpack, Babel
+- **Testing:** Jest, React Testing Library
+- **Code Quality:** ESLint, Prettier
+- **CI/CD:** GitHub Actions, Netlify
+
+## 💼 Experience
+
+### Frontend Developer at Farasoye Roshd Arman Zamin Company (July 2023 - Present)
+
+Developed websites and mobile applications in the field of road and urban development using React, React Native, and Next.js. Projects included:
+
+- Mersad Road Maintenance Web Application
+- Accident Report Form
+- Web-based Inspection Application (Recording Urban Incidents and Reporting)
+- Driver Risk Awareness System
+- Maniobaba Commercial Mall Project Website
+- Road Accident Adjustment Coefficients Website
+- Notification Process for Emergency Services (SOS) in the Neshan Mobile Application
+
+### Freelance Frontend Developer and UI Designer (February 2023 - June 2023)
+
+Designed the user interface and developed the frontend for the Saba Jahad website.
+
+### Freelance Website Designer with WordPress (June 2022 - February 2023)
+
+Designed websites for:
+
+- Mamis Conex
+- Sepahan Kesht
+- Narcis Makeup
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you have any questions or opportunities.

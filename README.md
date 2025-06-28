@@ -1,61 +1,63 @@
-# Javad Hashemzadeh - Frontend Developer
+<h1 align="center">Hi 👋, I'm Javad Hashemzadeh</h1>
+<h3 align="center">Full-Stack Developer | React, Next.js, Vue, Nuxt, Express, Nest, Laravel</h3>
 
-👋 Hi, I'm Javad Hashemzadeh, a passionate Frontend Developer with 2 years of experience in building dynamic and responsive web applications. My expertise lies in modern JavaScript frameworks and libraries, and I'm constantly learning and adapting to new technologies.
-
-## 💼 Experience
-
-### Frontend Developer at Farasoye Roshd Arman Zamin Company (July 2023 - Present)
-
-Developed websites and mobile applications in the field of road and urban development using React, React Native, and Next.js. Projects included:
-
-- Mersad Road Maintenance Web Application
-- Accident Report Form
-- Web-based Inspection Application (Recording Urban Incidents and Reporting)
-- Driver Risk Awareness System
-- Maniobaba Commercial Mall Project Website
-- Road Accident Adjustment Coefficients Website
-- Notification Process for Emergency Services (SOS) in the Neshan Mobile Application
-
-### Freelance Frontend Developer and UI Designer (February 2023 - June 2023)
-
-Designed the user interface and developed the frontend for the Saba Jahad website.
-
-### Freelance Website Designer with WordPress (June 2022 - February 2023)
-
-Designed websites for:
-
-- Mamis Conex
-- Sepahan Kesht
-- Narcis Makeup
-
-## 🚀 Skills
-
-- **Frontend Frameworks & Libraries:**
-  - Next.js
-  - React
-  - React-Native
-  - Redux
-  - React Query
-  - Zustand
-
-- **Languages:**
-  - TypeScript
-  - JavaScript (ES6+)
-  - HTML5
-  - CSS3
-
-- **Styling:**
-  - Tailwind CSS
-  - Bootstrap
-  - Material-UI
-
-## 📫 Contact Me
-
-- **Email:** [javadhashemzadeh78@gmail.com](mailto:javadhashemzadeh78@gmail.com)
-- **LinkedIn:** [linkedin.com/in/javad-hashemzadeh](https://www.linkedin.com/in/javad-hashemzadeh/)
-- **GitHub:** [github.com/javad7899](https://github.com/javad7899)
-- **Telegram:** [t.me/javad_hshz](https://t.me/javad_hshz)
+<p align="center">
+  <a href="mailto:javadhashemzadeh78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/javad-hashemzadeh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/javad7899" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you have any questions or opportunities.
+## 🚀 Tech Stack
+
+### 🖥️ Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,redux,tailwind,scss,bootstrap" />
+
+### 🔧 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" />
+
+### 🗃️ Databases & APIs  
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+
+### 🧪 Testing & Tools  
+<img src="https://skillicons.dev/icons?i=jest,vite,webpack" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40" />
+<img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40" />
+
+### 🧰 Languages & Others  
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=graphql" />
+<img src="https://skillicons.dev/icons?i=github" />
+
+---
+
+## 👨‍💻 Experience
+
+### 👨‍🏫 Daneshkar (2025 - Present)  
+**Frontend & Backend Mentor**  
+- Mentoring in React, Next.js, Laravel  
+- Building Laravel APIs & admin dashboards  
+- Code review and workshops for junior devs  
+
+### 🏗 Farasoye Roshd Arman Zamin (2023 – 2025)  
+**Fullstack Developer**  
+- Built dashboards with React/Next, Laravel, Express, Nest  
+- Optimized performance (SSR, lazy loading)  
+- Worked on urban development & accident reporting platforms  
+
+### 💼 Idea Pardazan Daniar (2022 – 2023)  
+**Frontend Developer**  
+- Vue/Nuxt frontend development  
+- Created scalable business platforms  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javad7899&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javad7899&layout=compact&theme=tokyonight" width="48%"/>
+</p>
